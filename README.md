@@ -156,19 +156,27 @@ Overall, the confusion matrix suggests that the model generalizes well, maintain
 
 1. Clone the repository:
 
-`git clone https://github.com/Gabriel2002Can/banking-market-model.git`
+```
+git clone https://github.com/Gabriel2002Can/banking-market-model.git
+```
 
 2. Navigate to the project directory:
 
-`cd banking-market-model`
+```
+cd banking-market-model
+```
 
 3. Install dependencies:
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 4. Run the notebook or script:
 
-`jupyter notebook`
+```
+jupyter notebook
+```
 
 ## Key Learnings
 
